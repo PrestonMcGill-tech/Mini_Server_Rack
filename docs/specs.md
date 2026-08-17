@@ -1,44 +1,22 @@
 # Specifications
-
-Final as-built specs. Keep this factual and short — it's the reference sheet, not the story
-(that's [build-log.md](build-log.md)).
+- 4 slot 250mm mini homelab rack
+- First iteration
+- Flick a message for possible improvements
 
 ## Dimensions
-
 | | |
 |---|---|
-| External (H x W x D) | TODO mm |
+| External (370 x 250 x 280) | TODO mm |
 | Internal rack space | TODO U (rack units) |
-| Rail width | TODO (e.g. 19") |
 | Weight (empty) | TODO kg |
-| Max static load rating | TODO kg |
 
 ## Materials
-
-- TODO (e.g. mild steel angle frame, powder coated / painted finish)
+- 3D Printed with PLA
+- Testing still needs to be done for strength and Different Filaments 
 
 ## Mounting / Layout
-
-<!-- TODO(Preston): Rack unit layout — what's mounted where, top to bottom. Useful
-reference for yourself later too. -->
-
-| U Position | Equipment |
-|---|---|
-| TODO | TODO |
-
-## Power
-
-| | |
-|---|---|
-| PDU / power strip | TODO |
-| Total rated load | TODO |
-| UPS (if any) | TODO |
+<!-- Custom mounting can be designed depending on the application. Currently I have a dell -->
 
 ## Cooling / Airflow
-
-- TODO (fan count, airflow direction, ambient temp considerations)
-
-## Related
-
-- Homelab software stack running on this hardware: Proxmox, TrueNAS, pfSense, Docker
-  (see your homelab notes / a separate homelab repo if you write one up)
+- Fans can be mounted on the top, on the back or on the side depending on you specific needs. you may need to design a mount for the fan
+- I have a fan mounted on the top
