@@ -6,9 +6,8 @@
 ## Dimensions
 | | |
 |---|---|
-| External (370 x 250 x 280) | TODO mm |
+| External (H x W x D mm) | 370 x 250 x 280 mm |
 | Internal rack space | TODO U (rack units) |
-| Weight (empty) | TODO kg |
 
 ## Materials
 - 3D Printed with PLA
