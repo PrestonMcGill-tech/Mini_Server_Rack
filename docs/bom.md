@@ -6,40 +6,19 @@ rather not disclose costs publicly.
 
 ## Structure
 
-| Qty | Item | Spec / Size | Source | Approx. Cost (AUD) | Notes |
+| Qty | Item | Spec / Size | Source | Approx. Cost (AUD) |
 |---|---|---|---|---|---|
-| TODO | e.g. Mild steel angle | e.g. 25x25x3mm, 6m length | e.g. local steel supplier | TODO | |
-| | | | | | |
-| | | | | | |
+| 1kg | Filament | PLA | https://au.store.bambulab.com/products/pla-tough-upgrade?id=623768847717027852 | 
+| | | | | | 
+| | | | | | 
 
 ## Rack Hardware
 
 | Qty | Item | Spec | Source | Approx. Cost (AUD) | Notes |
 |---|---|---|---|---|---|
-| TODO | e.g. Rack rails | e.g. 4-post, 19" | | TODO | |
-| TODO | e.g. Cage nuts + bolts | | | TODO | |
-| TODO | e.g. Casters | | | TODO | |
+| 20 | Hex socket button head M6 x 12 | e.g. 4-post, 19" | | 5 | |
+| 24? | M6 metal inserts | | | 5 | |
+| 4? | Hex socket button head M6 x 20 | | | 5 | |
 
-## Power & Cable Management
-
-| Qty | Item | Spec | Source | Approx. Cost (AUD) | Notes |
-|---|---|---|---|---|---|
-| TODO | e.g. PDU | | | TODO | |
-| TODO | e.g. Cable trays / D-rings | | | TODO | |
-
-## Cooling
-
-| Qty | Item | Spec | Source | Approx. Cost (AUD) | Notes |
-|---|---|---|---|---|---|
-| TODO | e.g. Fans | | | TODO | |
-
-## Consumables
-
-| Qty | Item | Notes |
-|---|---|---|
-| TODO | e.g. Welding rod / MIG wire | |
-| TODO | e.g. Paint / primer | |
-
----
-
-**Total approximate cost:** TODO
+**Total approximate cost: 50**
+- Depends heavily on the filament Cost and where you get your hardware
